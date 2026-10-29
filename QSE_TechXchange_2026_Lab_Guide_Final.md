@@ -143,6 +143,16 @@ git push -u origin user1-labs
 
 ---
 
+QSE Missing? Prompt Bob to:
+Please configure my SSH config file on this machine with the following lab server details:
+- Host: qse-lab
+- HostName: 169.61.68.18
+- Port: 31672
+- User: <YOUR_STUDENT_ID>  (e.g., student01)
+
+Please create/update the SSH config file with proper permissions and show me the command to connect.
+
+
 ## Task 1 — Scanning the Codebase with Quantum Safe Explorer CLI
 
 In this task you will trigger a Quantum Safe Explorer scan of the `sample_files/` directory directly using IBM Bob. The scan analyses all supported languages in the directory (Go, C++, C#, Python, Java) and writes its results to the `qs_scan_result/` folder.
