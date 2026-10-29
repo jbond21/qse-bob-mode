@@ -144,6 +144,7 @@ git push -u origin user1-labs
 ---
 
 QSE Missing? Prompt Bob to:
+
 Please configure my SSH config file on this machine with the following lab server details:
 - Host: qse-lab
 - HostName: 169.61.68.18
