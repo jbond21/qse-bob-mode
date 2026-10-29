@@ -151,6 +151,8 @@ Please configure my SSH config file on this machine with the following lab serve
 - Port: 31672
 - User: <YOUR_STUDENT_ID>  (e.g., student01)
 
+- pw QuantumSafe2026!
+
 Please create/update the SSH config file with proper permissions and show me the command to connect.
 
 
